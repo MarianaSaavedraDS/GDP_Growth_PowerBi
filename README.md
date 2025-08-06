@@ -1,1 +1,1 @@
-![Alt text for the image](images/dashboard_preview.png)
+![Alt text for the image](dashboard_preview.png)
